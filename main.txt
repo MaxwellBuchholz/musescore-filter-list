@@ -1,0 +1,84 @@
+! Title: Musescore Feature Filter List
+! Description: Filters out some features on Musescore.com
+! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+
+! Various dashboard sidebar items
+musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Community)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Statistics)
+
+! Recently viewed section on dashboard page
+musescore.com##.fJdE3.ylWh_.xEcC3.CHi3b
+musescore.com##.j7ChS:has-text(Recently viewed)
+
+! Dashboard
+! musescore.com##section.vL20a
+! musescore.com##.NF2gH:has-text(Dashboard)
+
+! Upload button on header
+musescore.com##.u_VDg.MXKfV.utani.wXNik.Dhs0s.HFvdW.hidden-xs.TtlUw:has-text(Upload)
+
+! Notification icon on header
+! musescore.com##.u_VDg.MXKfV.V5cJq.utani.wXNik.Dhs0s.HFvdW.TtlUw.ZgMRi
+
+! Scores button on header
+musescore.com##div.ySz4z.TtlUw:has-text(Scores)
+
+! Hub section on main page
+musescore.com##.YkkkH.t6sN0
+musescore.com##.qAM2D:has-text(Show more)
+musescore.com##.eaum6.DIiWA.uNiCr.nFRPI:has-text(hubs)
+
+! Difficulty on score thumbnails
+! musescore.com##.u1emv:has-text(Beginner)
+! musescore.com##.u1emv:has-text(Intermediate)
+! musescore.com##.u1emv:has-text(Advanced)
+
+! Favorite icon on score thumbnails
+musescore.com##.bXUN6.eZJu1
+
+! Youtube logo on score thumbnails
+musescore.com##.YEJsU.pDYxK.QY3hw
+
+! The entire footer
+! musescore.com##.ms-footer_visible.ms-footer
+! musescore.com##.GC6Kg.eq72e.netWp
+
+! Various buttons on score page
+musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Share)
+! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Send to YouTube)
+! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Add to Set)
+! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Print)
+! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Favorite)
+! musescore.com###\34 67d4994c1e657da1d3075027bf1b528:has-text(Download)
+
+! Various elements on the score sidebar
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Please rate this score)
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Difficulty level)
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(This score is based on)
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(This score appears in)
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Other sheet music by this artist)
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Your comment)
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Comments)
+! Score Description on Score Sidebar
+! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Uploaded on)
+
+! Custom sound icon on score thumbnails
+musescore.com##.cPGYN.HtKJn.JnqFx.xBwRG
+
+! Various filters
+musescore.com##.g1QZl.WzG3p.Bckv4.SqnhX:has-text(Popular)
+musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Format)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Difficulty level)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Ensemble)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Instruments)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Genre)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Number of parts)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Status)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(License)
+
+! Various options in main dropdown menu
+! musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Community)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Scores)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Dashboard)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Scores)

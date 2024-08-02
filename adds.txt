@@ -1,0 +1,41 @@
+! Title: Musescore Advertisment Filter List
+! Description: Filters out advertisements on Musescore.com
+! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+
+! Main advertisment banner
+musescore.com##._sQKq
+
+! Pro advertisment on dashboard sidebar
+musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(PRO)
+
+! Why am I seeing this under sidebar advertisment
+musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44:has-text(Why am I seeing this?)
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Why am I seeing this?)
+
+! Free trial advertisment on header
+musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
+
+! PRO logo next to usernames
+musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG
+musescore.com##.uTWbo.CXj6R.cZMEw.JytSr.mzAHz.zeFu4.cPGYN.xykfW.Bnh13.xBwRG
+
+! Musescore mobile app advertisments
+musescore.com##.ms-footer--app
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Application)
+
+! Unlock full access button on side of score page
+musescore.com##.Pbc53:has-text(Unlock full Access)
+
+! Please rate this score popup at the end of scores
+musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
+
+! PRO advertisment at the end of scores
+musescore.com##.g1QZl.A0aO3._gyAu.s3Wga.ASx44:has-text(Claim This Deal)
+
+! MuseScore PRO credits
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
+
+! Various options in main dropdown menu
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discount)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)

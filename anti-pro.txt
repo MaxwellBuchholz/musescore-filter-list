@@ -1,0 +1,32 @@
+! Title: Musescore Anti-PRO Filter List
+! Description: Filters out PRO-Only features on Musescore.com
+! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+
+! Remove recommended courses sections
+musescore.com##.RJd4n.g1QZl:has-text(Recommended courses)
+
+! Songbooks and courses buttons on header
+musescore.com##div.ySz4z.TtlUw:has-text(Songbooks)
+musescore.com##div.ySz4z.TtlUw:has-text(Courses)
+
+! PRO piano keyboard feature on scores
+musescore.com##.u_VDg.V5cJq.k9n4o.O9yD2.plVkZ.HFvdW.OYnpi.CDCt8.vI1Jl
+musescore.com##.u_VDg.V5cJq.k9n4o.O9yD2.Dhs0s.HFvdW.CDCt8.Q7LVH.vI1Jl
+
+! PRO mixer on score
+musescore.com##.u_VDg.V5cJq.k9n4o.O9yD2.plVkZ.HFvdW.CDCt8.lCkB1.vI1Jl
+
+! Add to spotlight button on scores
+musescore.com##button.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(spotlight)
+
+! Remove Official scores
+musescore.com##article.mX2qa.J5IQp.c9ju0:has(.mzAHz.cPGYN.HtKJn.o1QE0.xBwRG)
+musescore.com##article.mX2qa.J5IQp.c9ju0:has(.cPGYN.HtKJn.VFgKg.xBwRG)
+
+! PRO options on personal profile page
+musescore.com##h2.AxOuC:has-text(Favorite Songbooks)
+musescore.com##h2.AxOuC:has-text(Orders)
+
+! PRO options in main dropdown menu
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
