@@ -3,4 +3,4 @@ Filter list for [uBlock Origin](https://github.com/gorhill/uBlock) to block unwa
 
 Copy the desired link form the file, navigate to the uBlock's "Filter lists" page, and paste it into the import section at the very bottom.
 
-Alteratively, for customization, you can copy the contents of the files into uBlock's "My filters" page and customize it to your liking.
+Alteratively, for customization, you can copy the contents of the files into uBlock's "My filters" page and customize it to your liking, this is recomended for main.txt as it contains many features that you may or may not want.
