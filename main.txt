@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
 
 ! Various dashboard sidebar items
-musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Community)
+! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Community)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Statistics)
 
 ! Recently viewed section on dashboard page
