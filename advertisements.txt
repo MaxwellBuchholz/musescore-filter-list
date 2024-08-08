@@ -1,4 +1,4 @@
-! Title: Musescore Advertisment Filter List
+! Title: Musescore Advertisement Filter List
 ! Description: Filters out advertisements on Musescore.com
 ! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
 
@@ -35,7 +35,7 @@ musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
 ! PRO advertisement at the end of scores
 musescore.com##.g1QZl.A0aO3._gyAu.s3Wga.ASx44:has-text(Claim This Deal)
 
-! MuseScore PRO credits
+! Musescore PRO credits
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
 
 ! Various options in main dropdown menu
