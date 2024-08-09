@@ -30,3 +30,15 @@ musescore.com##h2.AxOuC:has-text(Orders)
 ! PRO options in main dropdown menu
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
+
+! Various Options on Main Footer
+musescore.com##a.ms-footer--nav-link:has-text(Courses)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(Courses)
+musescore.com##a.ms-footer--nav-link:has-text(Official Scores)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(Official Scores)
+musescore.com##a.ms-footer--nav-link:has-text(Digital Books)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(Digital Books)
+musescore.com##a.ms-footer--nav-link:has-text(MuseScore PRO)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(MuseScore PRO)
+musescore.com##a.ms-footer--nav-link:has-text(Gifts)
+musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(Gifts)
