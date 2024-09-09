@@ -15,6 +15,9 @@ musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(PRO)
 musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44:has-text(Why am I seeing this?)
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Why am I seeing this?)
 
+# Musescore PRO Advertisment on score sidebar.
+musescore.com##.GADon:has-text(The best way to learn and play)
+
 ! Free trial advertisement on header
 musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
 
