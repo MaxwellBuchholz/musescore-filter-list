@@ -18,8 +18,9 @@ musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Why am I seeing this?)
 # Musescore PRO Advertisment on score sidebar.
 musescore.com##.GADon:has-text(The best way to learn and play)
 
-! Free trial advertisement on header
+! Advertisements on header
 musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
+musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.A_Jr2.TtlUw:has-text(off)
 
 ! PRO logo next to usernames
 musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG

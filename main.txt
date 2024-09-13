@@ -14,8 +14,12 @@ musescore.com##.j7ChS:has-text(Recently viewed)
 ! musescore.com##section.vL20a
 ! musescore.com##.NF2gH:has-text(Dashboard)
 
+! Instruments & Gear button on header
+musescore.com##.u_VDg.utani.wXNik.Dhs0s.HFvdW.yImAZ.TtlUw:has-text(Instruments)
+
 ! Upload button on header
 musescore.com##.u_VDg.MXKfV.utani.wXNik.Dhs0s.HFvdW.hidden-xs.TtlUw:has-text(Upload)
+musescore.com##.u_VDg.utani.O9yD2.plVkZ.HFvdW.hidden-xs.TtlUw:has-text(Upload)
 
 ! Notification icon on header
 ! musescore.com##.u_VDg.MXKfV.V5cJq.utani.wXNik.Dhs0s.HFvdW.TtlUw.ZgMRi
