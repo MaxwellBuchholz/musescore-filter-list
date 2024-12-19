@@ -4,6 +4,7 @@
 
 ! Remove recommended courses sections
 musescore.com##.RJd4n.g1QZl:has-text(Recommended courses)
+musescore.com##.pGBny.vlaNG:has-text(Courses)
 
 ! Songbooks and courses buttons on header
 musescore.com##div.ySz4z.TtlUw:has-text(Songbooks)
@@ -30,6 +31,10 @@ musescore.com##h2.AxOuC:has-text(Orders)
 ! PRO options in main dropdown menu
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
+musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
+musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
+
+
 
 ! Various Options on Main Footer
 musescore.com##a.ms-footer--nav-link:has-text(Courses)

@@ -9,6 +9,19 @@
 ! Recently viewed section on dashboard page
 musescore.com##.fJdE3.ylWh_.xEcC3.CHi3b
 musescore.com##.j7ChS:has-text(Recently viewed)
+musescore.com##div.sR5iO.vlaNG:has-text(Recently)
+
+! New for you section of Dashboard
+musescore.com##div.sR5iO.vlaNG:has-text(New)
+
+! Playlist Section on Dashboard
+musescore.com##.rqS6F.vlaNG:has-text(New)
+
+! Community Section on Dashboard
+musescore.com##.AICZC:has-text(Community)
+
+! Your Musescore Month section on Dashboard (Statistics)
+! musescore.com##.Xe9gT.NNJ8K:has-text(Your)
 
 ! Dashboard
 ! musescore.com##section.vL20a
@@ -86,3 +99,12 @@ musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Scores
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Dashboard)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Scores)
+musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Scores)
+musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Community)
+musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Scores)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Messages)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My Profile)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My Scores)
+! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My sets)
