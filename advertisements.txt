@@ -42,6 +42,7 @@ musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
 
 ! PRO advertisement at the end of scores
 musescore.com##.g1QZl.A0aO3._gyAu.s3Wga.ASx44:has-text(Claim This Deal)
+musescore.com##.g1QZl.s3Wga:has-text(Claim This Deal)
 
 ! Musescore PRO credits
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
@@ -53,5 +54,6 @@ musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO
 musescore.com##.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.euHGb.OX2Fm.uBrVm:has-text(Free Bonus)
 musescore.com##button.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upgrade subscription)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discount)
+musescore.com##.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.undefined.OX2Fm.uBrVm:has-text(Your Discount)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
