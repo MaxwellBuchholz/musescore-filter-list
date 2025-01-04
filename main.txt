@@ -79,6 +79,7 @@ musescore.com##div.g1QZl.GemQU.SqnhX:has-text(This score appears in)
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Other sheet music by this artist)
 ! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Your comment)
 ! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Comments)
+musescore.com##section.g1QZl > .g1QZl.GemQU.SqnhX:has-text(Tags)
 ! Score Description on Score Sidebar
 ! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Uploaded on)
 
