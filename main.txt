@@ -6,6 +6,9 @@
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Community)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Statistics)
 
+! Playlists section on main page
+musescore.com##.k6MHZ.vlaNG:has-text(playlists)
+
 ! Recently viewed section on dashboard page
 musescore.com##.fJdE3.ylWh_.xEcC3.CHi3b
 musescore.com##.j7ChS:has-text(Recently viewed)

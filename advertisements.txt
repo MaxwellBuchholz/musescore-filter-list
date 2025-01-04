@@ -7,6 +7,7 @@ musescore.com##._sQKq
 
 ! Musescore Studio desktop application advertisement
 musescore.com##.OXE6C:has-text(Notate)
+musescore.com##.Kl6PK:has-text(MuseScore Studio)
 
 ! Pro advertisement on dashboard
 musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(PRO)
@@ -21,6 +22,7 @@ musescore.com##.GADon:has-text(The best way to learn and play)
 musescore.com##.VQlJ3:has-text(Try)
 
 ! Advertisements on header
+musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Start Free Trial)
 musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
 musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.A_Jr2.TtlUw:has-text(off)
 
@@ -29,6 +31,8 @@ musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG
 musescore.com##.uTWbo.CXj6R.cZMEw.JytSr.mzAHz.zeFu4.cPGYN.xykfW.Bnh13.xBwRG
 musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Pro)
 musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Learn)
+musescore.com##.QDIzK.ujKR6.VFmnW.lJ362.YbBVJ:has-text(PRO)
+
 
 ! Musescore mobile app advertisements
 musescore.com##.ms-footer--app

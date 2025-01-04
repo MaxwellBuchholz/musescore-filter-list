@@ -23,6 +23,7 @@ musescore.com##button.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(spotlig
 ! Remove Official scores
 musescore.com##article.mX2qa.J5IQp.c9ju0:has(.mzAHz.cPGYN.HtKJn.o1QE0.xBwRG)
 musescore.com##article.mX2qa.J5IQp.c9ju0:has(.cPGYN.HtKJn.VFgKg.xBwRG)
+musescore.com##article:has(.ZJJIx.kdcrM)
 
 ! PRO options on personal profile page
 musescore.com##h2.AxOuC:has-text(Favorite Songbooks)
@@ -33,8 +34,6 @@ musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Course
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
-
-
 
 ! Various Options on Main Footer
 musescore.com##a.ms-footer--nav-link:has-text(Courses)
