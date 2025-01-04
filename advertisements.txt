@@ -26,6 +26,7 @@ musescore.com##.VQlJ3:has-text(Continue to Unlock)
 musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Start Free Trial)
 musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
 musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.A_Jr2.TtlUw:has-text(off)
+musescore.com##.u_VDg.MXKfV.k9n4o.nIsQu.Dhs0s.HFvdW.BBpJq:has-text(Start Free Trial)
 
 ! PRO logo next to usernames
 musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG
@@ -37,6 +38,8 @@ musescore.com##.QDIzK.ujKR6.VFmnW.lJ362.YbBVJ:has-text(PRO)
 ! Musescore mobile app advertisements
 musescore.com##.ms-footer--app
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Application)
+musescore.com##.QlWvk:has-text(app)
+musescore.com##.FwyBv.xUZUO:has-text(mobile app)
 
 ! Unlock full access button on side of score page
 musescore.com##.Pbc53:has-text(Unlock full Access)
@@ -62,3 +65,4 @@ musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discoun
 musescore.com##.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.undefined.OX2Fm.uBrVm:has-text(Your Discount)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
+musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Free Trial)

@@ -86,6 +86,9 @@ musescore.com##section.g1QZl > .g1QZl.GemQU.SqnhX:has-text(Tags)
 ! Custom sound icon on score thumbnails
 musescore.com##.cPGYN.HtKJn.JnqFx.xBwRG
 
+! Red Dot next to filters button
+musescore.com##.e4sgl
+
 ! Various filters
 musescore.com##.g1QZl.WzG3p.Bckv4.SqnhX:has-text(Popular)
 musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Format)
@@ -112,3 +115,5 @@ musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
 ! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My Profile)
 ! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My Scores)
 ! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My sets)
+musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Upload)
+musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Community)
