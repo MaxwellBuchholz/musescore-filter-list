@@ -11,7 +11,7 @@ musescore.com##.Kl6PK:has-text(MuseScore Studio)
 
 ! Pro advertisement on dashboard
 musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(PRO)
-musescore.com##.VQlJ3:has-text(Try)
+musescore.com##.G8lI5:has-text(Try PRO+ features for free)
 
 ! Why am I seeing this under sidebar advertisement
 musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44:has-text(Why am I seeing this?)
@@ -40,6 +40,7 @@ musescore.com##.ms-footer--app
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Application)
 musescore.com##.QlWvk:has-text(app)
 musescore.com##.FwyBv.xUZUO:has-text(mobile app)
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Explore the MuseScore App)
 
 ! Unlock full access button on side of score page
 musescore.com##.Pbc53:has-text(Unlock full Access)
