@@ -53,6 +53,9 @@ musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
 musescore.com##.g1QZl.A0aO3._gyAu.s3Wga.ASx44:has-text(Claim This Deal)
 musescore.com##.g1QZl.s3Wga:has-text(Claim This Deal)
 
+! Free trial button on score processing page
+musescore.com##.Vz05V.xmPGS.gDQCi.oibp3.AKWGY.D565u.q6Bbo.fFhjp.Xjv2h.qdREF.wUXzj._3Rxp.Qh3__:has-text(Start Free Trial)
+
 ! Musescore PRO credits
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
 
