@@ -70,3 +70,6 @@ musescore.com##.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.undefined.OX2Fm.uBrVm:has-text(You
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
 musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Free Trial)
+
+! musescore.org Banner advertisment
+musescore.org##.banner-promotion
