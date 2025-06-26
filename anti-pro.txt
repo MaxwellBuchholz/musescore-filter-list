@@ -5,6 +5,7 @@
 ! Remove recommended courses sections
 musescore.com##.RJd4n.g1QZl:has-text(Recommended courses)
 musescore.com##.pGBny.vlaNG:has-text(Courses)
+musescore.com##.Ltx8C.tKG5s.ffXrm:has-text(Recommended Courses)
 
 ! Songbooks and courses buttons on header
 musescore.com##div.ySz4z.TtlUw:has-text(Songbooks)
