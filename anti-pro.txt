@@ -1,6 +1,6 @@
-! Title: Musescore Anti-PRO Filter List
-! Description: Filters out PRO-Only features on Musescore.com
-! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+! Title: MuseScore Anti-PRO Filter List
+! Description: Filters out PRO-Only features on MuseScore.com
+! Homepage: https://github.com/MaxwellBuchholz/musescore-filter-list
 
 ! Remove recommended courses sections
 musescore.com##.RJd4n.g1QZl:has-text(Recommended courses)
@@ -24,7 +24,7 @@ musescore.com##.Eq7k4.cI7V0:has-text(View statistics)
 ! Add to spotlight button on scores
 musescore.com##button.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(spotlight)
 
-! Remove Official scores
+! Remove official scores
 musescore.com##article.mX2qa.J5IQp.c9ju0:has(.mzAHz.cPGYN.HtKJn.o1QE0.xBwRG)
 musescore.com##article.mX2qa.J5IQp.c9ju0:has(.cPGYN.HtKJn.VFgKg.xBwRG)
 musescore.com##article:has(.ZJJIx.kdcrM)
@@ -34,7 +34,7 @@ musescore.com##.f4AGp.dhaTG:has(.mzAHz.cPGYN.HtKJn.o1QE0.xBwRG)
 musescore.com##h2.AxOuC:has-text(Favorite Songbooks)
 musescore.com##h2.AxOuC:has-text(Orders)
 
-! PRO options in main dropdown menu
+! PRO options in main drop-down menu
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Courses)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Favorite Songbooks)
@@ -43,7 +43,7 @@ musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Courses)
 musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Songbooks)
 musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Official scores)
 
-! Various Options on Main Footer
+! Various options on main footer
 musescore.com##a.ms-footer--nav-link:has-text(Courses)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.RsvsB.HFvdW.cA20V.pDsWU.uBrVm:has-text(Courses)
 musescore.com##a.ms-footer--nav-link:has-text(Official Scores)

@@ -1,6 +1,6 @@
-! Title: Musescore Feature Filter List
-! Description: Filters out some features on Musescore.com
-! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+! Title: MuseScore Feature Filter List
+! Description: Filters out some features on MuseScore.com
+! Homepage: https://github.com/MaxwellBuchholz/musescore-filter-list
 
 ! Various dashboard items
 musescore.com##.SGtse:has-text(What do you want to play?)
@@ -12,7 +12,7 @@ musescore.com##.PewEw:has-text(Community)
 musescore.com##div.SUThk.kLjDk.ffXrm:has-text(New for you)
 musescore.com##.shW3X.B5X84.ffXrm:has-text(playlists)
 
-! Instruments & Gear button on header
+! Instruments and Gear button on header
 musescore.com##.u_VDg.utani.wXNik.Dhs0s.HFvdW.yImAZ.TtlUw:has-text(Instruments)
 
 ! Upload button on header
@@ -35,7 +35,7 @@ musescore.com##.eaum6.DIiWA.uNiCr.nFRPI:has-text(hubs)
 ! Favorite icon on score thumbnails
 musescore.com##.bXUN6.eZJu1
 
-! Youtube logo on score thumbnails
+! YouTube logo on score thumbnails
 musescore.com##.YEJsU.pDYxK.QY3hw
 
 ! Various buttons on score page
@@ -64,7 +64,7 @@ musescore.com##.sTjDa
 ! Custom sound icon on score thumbnails
 musescore.com##.cPGYN.HtKJn.JnqFx.xBwRG
 
-! Red Dot next to filters button
+! Red dot next to filters button
 musescore.com##.e4sgl
 
 ! Sets for "search" on the search page
@@ -81,7 +81,7 @@ musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Format)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Status)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(License)
 
-! Various options in main dropdown menu
+! Various options in main drop-down menu
 ! musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Community)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Scores)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)

@@ -1,6 +1,6 @@
-! Title: Musescore Advertisement Filter List
-! Description: Filters out advertisements on Musescore.com
-! Homepage: https://github.com/Subcrease/MuseScore-Filter-List
+! Title: MuseScore Advertisement Filter List
+! Description: Filters out advertisements on MuseScore.com
+! Homepage: https://github.com/MaxwellBuchholz/musescore-filter-list
 
 ! Main advertisement banner
 musescore.com##._sQKq
@@ -17,7 +17,7 @@ musescore.com##.G8lI5:has-text(Try PRO+ features for free)
 musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44:has-text(Why am I seeing this?)
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Why am I seeing this?)
 
-! Musescore PRO Advertisment on score sidebar.
+! MuseScore PRO advertisement on score sidebar.
 musescore.com##.GADon:has-text(The best way to learn and play)
 musescore.com##.VQlJ3:has-text(Try)
 musescore.com##.VQlJ3:has-text(Continue to Unlock)
@@ -35,7 +35,7 @@ musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Pro)
 musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Learn)
 musescore.com##.QDIzK.ujKR6.VFmnW.lJ362.YbBVJ:has-text(PRO)
 
-! Musescore mobile app advertisements
+! MuseScore mobile app advertisements
 musescore.com##.ms-footer--app
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Application)
 musescore.com##.QlWvk:has-text(app)
@@ -46,7 +46,7 @@ musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Explore the MuseScore App)
 musescore.com##.Pbc53:has-text(Unlock full Access)
 musescore.com##.Pbc53:has-text(Unlock Full Access)
 
-! Please rate this score popup at the end of scores
+! Please rate this score pop-up at the end of scores
 musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
 
 ! PRO advertisement at the end of scores
@@ -56,10 +56,10 @@ musescore.com##.g1QZl.s3Wga:has-text(Claim This Deal)
 ! Free trial button on score processing page
 musescore.com##.Vz05V.xmPGS.gDQCi.oibp3.AKWGY.D565u.q6Bbo.fFhjp.Xjv2h.qdREF.wUXzj._3Rxp.Qh3__:has-text(Start Free Trial)
 
-! Musescore PRO credits
+! MuseScore PRO credits
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
 
-! Various options in main dropdown menu
+! Various options in main drop-down menu
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discount)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
@@ -71,5 +71,5 @@ musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
 musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Free Trial)
 
-! musescore.org Banner advertisment
+! MuseScore.org banner advertisement
 musescore.org##.banner-promotion
