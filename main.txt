@@ -22,6 +22,10 @@ musescore.com##.u_VDg.utani.O9yD2.plVkZ.HFvdW.hidden-xs.TtlUw:has-text(Upload)
 ! Scores button on header
 musescore.com##div.ySz4z.TtlUw:has-text(Scores)
 
+! News button on header
+news.musescore.com##.KMlGL.ySz4z.TtlUw:has-text(News)
+musescore.com##div.ySz4z.TtlUw:has-text(News)
+
 ! Hub section on main page
 musescore.com##.YkkkH.t6sN0
 musescore.com##.qAM2D:has-text(Show more)
@@ -57,6 +61,12 @@ musescore.com##.g1QZl.GemQU.SqnhX:has-text(Other versions of this score)
 ! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Your comment)
 ! musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Comments)
 musescore.com##section.g1QZl > .g1QZl.GemQU.SqnhX:has-text(Tags)
+
+! Top users section on score sidebar
+musescore.com##.g1QZl.GemQU.AfgOI.SqnhX:has-text(top users)
+
+! Recommended scores section at bottom of score
+musescore.com##section.g1QZl:has-text(Recommended scores)
 
 ! Instrument/Difficulty section on score sidebar
 musescore.com##.sTjDa
