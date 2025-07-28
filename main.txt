@@ -70,6 +70,7 @@ musescore.com##section.g1QZl:has-text(Recommended scores)
 
 ! Instrument/Difficulty section on score sidebar
 musescore.com##.sTjDa
+musescore.com##.fLXPn
 
 ! Custom sound icon on score thumbnails
 musescore.com##.cPGYN.HtKJn.JnqFx.xBwRG
@@ -82,6 +83,7 @@ musescore.com##.Q7Un9.Am28v:has-text(Sets for)
 
 ! Various filters
 musescore.com##.g1QZl.WzG3p.Bckv4.SqnhX:has-text(Popular)
+musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Popular)
 musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Format)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Difficulty level)
 ! musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Ensemble)

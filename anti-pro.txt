@@ -30,6 +30,9 @@ musescore.com##article.mX2qa.J5IQp.c9ju0:has(.cPGYN.HtKJn.VFgKg.xBwRG)
 musescore.com##article:has(.ZJJIx.kdcrM)
 musescore.com##.f4AGp.dhaTG:has(.mzAHz.cPGYN.HtKJn.o1QE0.xBwRG)
 
+! Official Scores filter
+musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(Score type)
+
 ! PRO options on personal profile page
 musescore.com##h2.AxOuC:has-text(Favorite Songbooks)
 musescore.com##h2.AxOuC:has-text(Orders)
