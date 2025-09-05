@@ -8,9 +8,9 @@ musescore.com##.Ltx8C.vlaNG:has-text(Recommended Courses)
 musescore.com##div.SUThk.vlaNG:has-text(Recently viewed)
 musescore.com##div.SUThk.vlaNG:has-text(New for you)
 musescore.com##.shW3X.vlaNG:has-text(New playlists)
-musescore.com##.PewEw:has-text(Community)
 musescore.com##div.SUThk.kLjDk.ffXrm:has-text(New for you)
 musescore.com##.shW3X.B5X84.ffXrm:has-text(playlists)
+! musescore.com##.PewEw:has-text(Community)
 
 ! Instruments and Gear button on header
 musescore.com##.u_VDg.utani.wXNik.Dhs0s.HFvdW.yImAZ.TtlUw:has-text(Instruments)
@@ -49,6 +49,10 @@ musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-
 ! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Print)
 ! musescore.com##button.u_VDg.s_klh.utani.nOTLW.tDPQ9.HFvdW.r6afg.R1reb.TtlUw:has-text(Favorite)
 ! musescore.com###\34 67d4994c1e657da1d3075027bf1b528:has-text(Download)
+
+
+musescore.com##.ugVgQ:has-text(Set your goal)
+musescore.com##.o0VkF
 
 ! Various elements on the score sidebar
 musescore.com##.g1QZl.jO_Ca.ypvvp.Zl0bX.FMkpa:has-text(Select instrument)
@@ -110,4 +114,4 @@ musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upload)
 ! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My Scores)
 ! musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(My sets)
 musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Upload)
-musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Community)
+! musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Community)
