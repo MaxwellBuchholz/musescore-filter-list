@@ -55,6 +55,7 @@ musescore.com##.g1QZl.s3Wga:has-text(Claim This Deal)
 
 ! Free trial button on score processing page
 musescore.com##.Vz05V.xmPGS.gDQCi.oibp3.AKWGY.D565u.q6Bbo.fFhjp.Xjv2h.qdREF.wUXzj._3Rxp.Qh3__:has-text(Start Free Trial)
+musescore.com##.Dkreh.A8HUG.h980B.PfpR4.M7zgT.SNCvp.uAyH_.Mz1dU.jESjf.ohyWZ.Ra0ZB.j3dkW.fDIYK:has-text(Start Free Trial)
 
 ! MuseScore PRO credits
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
