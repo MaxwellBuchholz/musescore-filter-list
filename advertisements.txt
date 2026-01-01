@@ -5,72 +5,30 @@
 ! Main advertisement banner
 musescore.com##._sQKq
 
-! Musescore Studio desktop application advertisement
-musescore.com##.OXE6C:has-text(Notate)
-musescore.com##.Kl6PK:has-text(MuseScore Studio)
+! Start Free Trial button on header
+musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Free Trial)
 
-! Pro advertisement on dashboard
-musescore.com##div.g1QZl.Bckv4.SqnhX:has-text(PRO)
-musescore.com##.G8lI5:has-text(Try PRO+ features for free)
+! MuseScore App advertisements
+musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore App)
+musescore.com##.ms-footer--app:has-text(MuseScore App)
 
-! Why am I seeing this under sidebar advertisement
-musescore.com##.CgHMj.g1QZl.z03Al.hQ6hq.Bz0hi.AJXCt.ASx44:has-text(Why am I seeing this?)
-musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Why am I seeing this?)
 
-! MuseScore PRO advertisement on score sidebar.
-musescore.com##.GADon:has-text(The best way to learn and play)
-musescore.com##.VQlJ3:has-text(Try)
-musescore.com##.VQlJ3:has-text(Continue to Unlock)
+! Advertisement at bottom of scores
+musescore.com##.g1QZl.g9Yh7.s3Wga:has-text(Claim This Deal)
 
-! Advertisements on header
-musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Start Free Trial)
-musescore.com##.u_VDg.MXKfV.utani.nIsQu.Dhs0s.HFvdW.o8abo.A_Jr2.TtlUw:has-text(Free Trial)
-musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.A_Jr2.TtlUw:has-text(off)
-musescore.com##.u_VDg.MXKfV.k9n4o.nIsQu.Dhs0s.HFvdW.BBpJq:has-text(Start Free Trial)
+! Advertisement on main dashboard
+musescore.com##.bY54s:has-text(PRO)
 
-! PRO logo next to usernames
-musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG
-musescore.com##.uTWbo.CXj6R.cZMEw.JytSr.mzAHz.zeFu4.cPGYN.xykfW.Bnh13.xBwRG
-musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Pro)
-musescore.com##.cZMEw.mzAHz.zeFu4.cPGYN.xykfW.O4JZl.xBwRG:has-text(Learn)
-musescore.com##.QDIzK.ujKR6.VFmnW.lJ362.YbBVJ:has-text(PRO)
-
-! MuseScore mobile app advertisements
-musescore.com##.ms-footer--app
-musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Application)
-musescore.com##.QlWvk:has-text(app)
-musescore.com##.FwyBv.xUZUO:has-text(mobile app)
-musescore.com##div.g1QZl.GemQU.SqnhX:has-text(Explore the MuseScore App)
-
-! Unlock full access button on side of score page
-musescore.com##.Pbc53:has-text(Unlock full Access)
-musescore.com##.Pbc53:has-text(Unlock Full Access)
-
-! Please rate this score pop-up at the end of scores
-musescore.com##.FCSZc.KkvbQ:has-text(Please rate this score)
-
-! PRO advertisement at the end of scores
-musescore.com##.g1QZl.A0aO3._gyAu.s3Wga.ASx44:has-text(Claim This Deal)
-musescore.com##.g1QZl.s3Wga:has-text(Claim This Deal)
-
-! Free trial button on score processing page
-musescore.com##.Vz05V.xmPGS.gDQCi.oibp3.AKWGY.D565u.q6Bbo.fFhjp.Xjv2h.qdREF.wUXzj._3Rxp.Qh3__:has-text(Start Free Trial)
-musescore.com##.Dkreh.A8HUG.h980B.PfpR4.M7zgT.SNCvp.uAyH_.Mz1dU.jESjf.ohyWZ.Ra0ZB.j3dkW.fDIYK:has-text(Start Free Trial)
-
-! MuseScore PRO credits
-musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore Credits)
-
-! Various options in main drop-down menu
-musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discount)
-musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
-musescore.com##a.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
-musescore.com##.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.euHGb.OX2Fm.uBrVm:has-text(Free Bonus)
-musescore.com##button.u_VDg.MXKfV.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Upgrade subscription)
+! Advertisements in main hamburger menu
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Your Discount)
-musescore.com##.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.undefined.OX2Fm.uBrVm:has-text(Your Discount)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Gift PRO)
 musescore.com##a.u_VDg.zj781.Cl2SE.O9yD2.HFvdW.OX2Fm.uBrVm:has-text(Go PRO)
-musescore.com##.u_VDg.I2vMq.wXNik.Dhs0s.HFvdW.giJEG:has-text(Free Trial)
 
-! MuseScore.org banner advertisement
-musescore.org##.banner-promotion
+! NEW tag on songbooks button on header
+musescore.com###Songbooks > .yBPoZ
+
+! PRO icon next to usernames
+musescore.com##.cZMEw.JytSr.mzAHz.cPGYN.iTPbQ.Bnh13.xBwRG
+musescore.com##.AS8_N.VPI6e.Pu3e9.o8k5w.bF42a
+musescore.com##.undefined.djeI8 > div:has-text(Pro+)
+musescore.com##.undefined.djeI8 > div:has-text(Learn Lite)
