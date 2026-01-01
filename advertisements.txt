@@ -7,6 +7,7 @@ musescore.com##._sQKq
 
 ! Start Free Trial button on header
 musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Free Trial)
+musescore.com##.u_VDg.utani.nOTLW.tDPQ9.HFvdW.o8abo.Mh_fD.A_Jr2.TtlUw:has-text(Get)
 
 ! MuseScore App advertisements
 musescore.com##div.g1QZl.GemQU.SqnhX:has-text(MuseScore App)
