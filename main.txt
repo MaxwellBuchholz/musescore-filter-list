@@ -17,6 +17,7 @@ musescore.com##.fLXPn
 
 ! Streak feature
 musescore.com##.heBul
+musescore.com##.MnCDs
 
 ! Various items in the "Score info" section on the score sidebar
 musescore.com##tr.X5pph:has-text(Credits)
