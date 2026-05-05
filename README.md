@@ -1,4 +1,7 @@
 # MuseScore Filter List
+
+MuseScore keeps breaking this filter so I've decided to stop using this anymore.
+
 Filter list for [uBlock Origin](https://github.com/gorhill/uBlock) to block unwanted features and advertisements on [Musescore.com](https://musescore.com/)
 
 Copy the desired link, navigate to the uBlock's "Filter lists" page, and paste it into the import section at the very bottom.
